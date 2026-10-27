@@ -7,7 +7,6 @@
 ![Java](https://img.shields.io/badge/Java-21-orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-brightgreen) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16%2B-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 > **Proje durumu: tasarım aşaması.** Aşağıdaki özellik listesindeki kutucuklar gerçek ilerlemeyi gösterir; işaretli olmayan hiçbir şey henüz çalışmıyor. Rozetlerdeki sürümler hedeftir.
-> (Rozet adresleri ve depo bağlantıları, depo oluşturulunca eklenecek: `<GITHUB-KULLANICI>/<DEPO-ADI>` yer tutucusunu doldurun.)
 
 ---
 
@@ -226,9 +225,7 @@ Her istatistik, depoda `src/main/resources/sql/report/` altında duran **sabit, 
 
 ## Veri modeli (ER diyagramı)
 
-> **Yer tutucu:** ER diyagramı, şema tamamlandığında buraya eklenecek (`docs/img/er-diagram.png`).
-
-![ER diyagramı - yer tutucu](docs/img/er-diagram.png)
+> ER diyagramı şema tamamlandığında eklenecek.
 
 Ana tablolar: `referee`, `season`, `league`, `team`, `venue`, `match`, `match_event`. Taslak `CREATE TABLE` ifadeleri [docs/TASARIM.md](docs/TASARIM.md) içindedir.
 
@@ -264,11 +261,7 @@ Bu liste, kapsam kaymasını önlemek için kasıtlı olarak ayrı tutulur.
 
 ## Ekran görüntüleri
 
-| Swagger UI | Sezon karnesi yanıtı | (varsa) Sade web sayfası |
-|---|---|---|
-| ![yer tutucu](docs/img/swagger.png) | ![yer tutucu](docs/img/report.png) | ![yer tutucu](docs/img/web.png) |
-
-*Yer tutucular; görseller uygulama çalışınca eklenecek.*
+Uygulama çalışınca eklenecek.
 
 ## Bilinen sınırlamalar
 
