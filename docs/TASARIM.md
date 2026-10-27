@@ -1,5 +1,7 @@
 # HakemDefteri - Tasarım Dokümanı
 
+> **Not (yapay zekâ kullanımı):** Bu belge, yapay zekâ (Claude) yardımıyla hazırlanmış bir taslaktır. Proje ilerledikçe gerçek gelişmelere göre güncellenecektir. "Doğrulanmadı" ve "ÖRNEK" etiketli yerler henüz kontrol edilmemiştir.
+
 Sürüm: taslak 0.1 | Durum: tasarım aşaması | Dil: Türkçe
 
 Bu belge, README'de verilen sözün teknik karşılığıdır. Kod içermez; yalnızca şema taslağı, örnek sorgular ve kararlar içerir.

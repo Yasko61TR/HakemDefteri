@@ -1,5 +1,7 @@
 # HakemDefteri
 
+> **Not (yapay zekâ kullanımı):** Bu belge, yapay zekâ (Claude) yardımıyla hazırlanmış bir taslaktır. Proje ilerledikçe gerçek gelişmelere göre güncellenecektir. "Doğrulanmadı" ve "ÖRNEK" etiketli yerler henüz kontrol edilmemiştir.
+
 > Amatör ve bölge hakemleri için maç, kart, ücret ve yol masrafı defteri; sezon sonunda PostgreSQL window function'larıyla hesaplanan bir **sezon karnesi**.
 
 ![Java](https://img.shields.io/badge/Java-21-orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-brightgreen) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16%2B-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)

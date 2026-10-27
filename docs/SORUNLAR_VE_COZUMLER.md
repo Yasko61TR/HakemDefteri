@@ -1,5 +1,7 @@
 # HakemDefteri - Sorunlar ve Çözümler
 
+> **Not (yapay zekâ kullanımı):** Bu belge, yapay zekâ (Claude) yardımıyla hazırlanmış bir taslaktır. Proje ilerledikçe gerçek gelişmelere göre güncellenecektir. "Doğrulanmadı" ve "ÖRNEK" etiketli yerler henüz kontrol edilmemiştir.
+
 Bu belge, projede karşılaşılması muhtemel sorunları **belirti / neden / çözüm / nasıl test edilir** biçiminde listeler. "Doğrulandı" yazanlar bu çalışmada kaynaktan teyit edilmiştir; "doğrulanmadı" yazanlar genel bilgi veya olasılıktır, kendi ortamınızda sınayın. Her başlığın sonunda öncelik (Y: yüksek, O: orta, D: düşük) belirtilmiştir.
 
 ## Özet tablo
